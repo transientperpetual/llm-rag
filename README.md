@@ -1,8 +1,11 @@
-# LLM-RAG
+# wisdom-compass (llm-powered)
 
-## Iteration #1
+This repository is designed to train a language model as a personal assistant, embodying the philosophy I've cultivated over the years through learnings from books, articles, schools of thought, and personal reflections. To enhance decision-making speed and save time.
 
-Reference - https://medium.com/@danushidk507/rag-with-llama-using-ollama-a-deep-dive-into-retrieval-augmented-generation-c58b9a1cfcd3
-Execution - Successfull
-Inference Quality - 2/10
-TODO: Need to allow the model to use more general knowledge. A some sort of response analyser is needed to perform a quality check. Support for faiss-gpu (low priority)
+## Inspiration
+
+Inspired by the belief that philosophy is not just an academic pursuit but a practical guide to living contentfully, this repository is a testament to the power of continuous learning and self-discovery.
+
+## Notion
+
+For progress status and roadmap visit <a href="https://jangidankit.notion.site/wisdom-compass-18647100b75a807db003f2c9e01d58e7"> notion page </a>.
